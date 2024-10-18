@@ -11,4 +11,9 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "home#index"
+  #if the local host doesn't run
+  resources:orders
+  resources :suppliers
+  resources :books
+  resources :customers
 end

@@ -1,11 +1,11 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <G6-Based Technology>
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: <Duy>
+- Member 2: <Tan>
+- Member 3: <Hieu>
+- Member 4: <Thien>
 
 ## Starting server
 
