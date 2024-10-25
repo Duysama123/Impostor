@@ -2,10 +2,11 @@
 
 ## GROUP <G6-Based Technology>
 
-- Member 1: <Duy>
-- Member 2: <Tan>
-- Member 3: <Hieu>
-- Member 4: <Thien>
+- Member 1: <Nguyễn Đình Duy>
+- Member 2: <Trần Minh Tân>
+- Member 3: <Nguyễn Xuân Hiếu>
+- Member 4: <Vũ Văn Thiện>
+- Member 5: <Phạm Lê Quỳnh Trang>
 
 ## Starting server
 
